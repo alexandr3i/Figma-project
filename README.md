@@ -1,21 +1,44 @@
-Proud Generația Tech alumni, the national program for IT & digital skills
-development, a Digital Nation project in partnership with top companies in
-Romania - www.generatiatech.ro.
+# Generația Tech — Figma Landing Page Project
 
-See 'About' section on the right for the link to Figma project.
+Design project created in **Figma** as part of the **Web Design Explorer** course (Generația Tech / Digital Nation).
 
-Web Design Explorer, where I learned:
+**Figma project:** https://www.figma.com/design/Vl03GJFPkFTeVBMckTibYV/Proiect-GT
 
-- How to build landing pages in Figma;
-- What the components of a design are;
-- Brand identity: logo, brand look & feel, colors;
-- Basics of HTML & CSS, Wordpress and other design concepts: A/B testing,
-accessibility etc.
+---
 
-Active part of the Digital Nation community, where nationwide members support
-each other in a continuous learning process, aiming for self-improvement and
-professional development. Being part of this community, I developed soft skills
-such as: teamwork, effective communication, autonomy, proactivity and solution
-oriented thinking.
+## Overview
 
-The course took part between August 2024 - January 2025
+This repository documents my learning and work during the **Web Design Explorer** program, where I practiced designing in Figma and understanding the foundations of UI/UX and brand identity.
+
+**Course period:** Aug 2024 – Jan 2025
+
+---
+
+## What’s included
+
+- Landing page layout (Figma)
+- Basic structure of a design system (reusable elements/components)
+- Branding exploration (logo direction, colors, look & feel)
+- Wireframing and layout decisions
+- Notes/learning outcomes from the program
+
+---
+
+## Skills practiced
+
+- Building landing pages in Figma (layout, spacing, hierarchy)
+- Understanding UI components and how designs are structured
+- Brand identity basics: logo, brand look & feel, color palette
+- Intro concepts: HTML/CSS fundamentals, WordPress basics, accessibility, A/B testing (high-level)
+
+---
+
+## About Generația Tech / Digital Nation
+
+Proud **Generația Tech** alumni — a national program for IT & digital skills development by **Digital Nation**, supported by a community focused on continuous learning and professional growth.
+
+---
+
+## Tags / Topics
+
+`figma` `ui` `ux` `landing-page` `wireframe` `branding` `brand-colors` `logo` `web-design`
