@@ -6,10 +6,10 @@ See 'About' section on the right for the link to Figma project.
 
 Web Design Explorer, where I learned:
 
-● How to build landing pages in Figma;
-● What the components of a design are;
-● Brand identity: logo, brand look & feel, colors;
-● Basics of HTML & CSS, Wordpress and other design concepts: A/B testing,
+- How to build landing pages in Figma;
+- What the components of a design are;
+- Brand identity: logo, brand look & feel, colors;
+- Basics of HTML & CSS, Wordpress and other design concepts: A/B testing,
 accessibility etc.
 
 Active part of the Digital Nation community, where nationwide members support
